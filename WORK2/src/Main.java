@@ -6,7 +6,7 @@ public class Main {
         Dept dept=new Dept(1990,"COMPUTER SCIENCE");
 
         dept.displayDeptInfo();
-
+        student.displayStudentInfo();
     }
 
 }

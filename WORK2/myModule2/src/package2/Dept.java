@@ -12,7 +12,7 @@ public class Dept {
  }
 public void displayDeptInfo(){
     System.out.println("The department name:"+ DeptName);
-    System.out.println("The department name:"+ DeptCode);
+    System.out.println("The department code:"+ DeptCode);
 }
 }
 
