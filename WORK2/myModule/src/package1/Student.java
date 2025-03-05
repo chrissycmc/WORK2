@@ -8,4 +8,8 @@ public class Student {
         this.Name=Name;
         this.StudentID=StudentID;
     }
+    public void displayStudentInfo(){
+        System.out.println("Student name:"+Name);
+        System.out.println("Student Id :"+StudentID);
+    }
 }
