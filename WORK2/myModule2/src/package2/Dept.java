@@ -1,6 +1,6 @@
 package package2;
 
-import javax.xml.namespace.QName;
+
 
 public class Dept {
  int DeptCode;
